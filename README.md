@@ -12,8 +12,8 @@ Further reading:
 - [TLBORM](https://veykril.github.io/tlborm/) for details on macros
 - [Rustonomicon](https://doc.rust-lang.org/stable/nomicon/) for raw guts of the
   language 🙀
-
-## Topics
+<img src="![Screenshot 2024-08-03 153257](https://github.com/user-attachments/assets/de02e4b6-1df0-43cc-b005-38cbc03c6411)
+" alt="Description of image">## Topics
 
 0. [Intro](00_intro.md)
 1. [Variables](01_variables.md)
